@@ -24817,6 +24817,8 @@ margin-top: 4%;
     /* height: 120px; */
     margin-top: 22%;
     margin-left: -6%;
-    background-color: aqua;
+    /*background-color: aqua;*/
     text-align: center;
+    color: #000000;
+    font-weight: bold;
 }
