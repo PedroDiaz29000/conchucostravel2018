@@ -24792,13 +24792,31 @@ margin-top: 4%;
 
 }
 #favoritos  { 
-    height: 35%;
+    height: 45%;
     width: 106%;
-    background-color: red;
+    background-color: #005d8a;
     margin-left: 0%;
     float: left;
     padding-left: 350px;
     margin-top: 34%;
     position: absolute;
     z-index: 2;
+}
+ #favoritos a div {
+    float: left;
+    width: 120px;
+    height: 120px;
+    margin-top: 14%;
+    margin-left: 8%;
+     /*background-color: aqua; */
+}
+
+ #favoritos div h1 {
+  float: left; */
+    width: 116px;
+    /* height: 120px; */
+    margin-top: 22%;
+    margin-left: -6%;
+    background-color: aqua;
+    text-align: center;
 }
