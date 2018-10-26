@@ -24774,23 +24774,23 @@ h1.entry-title {
 }
 
   #redes-sociales   { 
-     height: 35%;
+     height: 22%;
     width: 106%;
     background-color: #22435e;
     margin-left: -3%;
      float: left; 
     padding-left: 350px;
-    margin-top: -9%;
+    margin-top: -6%;
     position: absolute; 
       z-index: 2;"
 }
 
  #redes-sociales a div {
         float: left;
-    width: 51px;
-    height: 51px;
-margin-top: 4%;
-    margin-left: 8%;
+    width: 71px;
+    height: 71px;
+    margin-top: 3%;
+    margin-left: 12%;
      /*background-color: #131; */
 
 }
