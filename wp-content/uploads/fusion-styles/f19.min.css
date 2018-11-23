@@ -11665,9 +11665,9 @@ table {
     overflow: hidden
 }
 
-.ilightbox-closedhand * {
+/*.ilightbox-closedhand * {
     cursor: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur), default!important
-}
+}*/
 
 .ilightbox-overlay {
     display: none;
@@ -11868,7 +11868,7 @@ table {
     background-position: 50%
 }
 
-.ilightbox-holder .ilightbox-container .ilightbox-social ul li.facebook a {
+/*.ilightbox-holder .ilightbox-container .ilightbox-social ul li.facebook a {
     background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/facebook_16.png)
 }
 
@@ -11890,7 +11890,7 @@ table {
 
 .ilightbox-holder .ilightbox-container .ilightbox-social ul li.googleplus a {
     background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/google_plus_16.png)
-}
+}*/
 
 .ilightbox-holder .ilightbox-alert {
     display: block;
@@ -11953,9 +11953,9 @@ table {
     box-shadow: #000 0 0 85px, #000 0 0 85px
 }
 
-.ilightbox-loader.dark div {
+/*.ilightbox-loader.dark div {
     background: #000 url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/preloader.gif) no-repeat center
-}
+}*/
 
 .ilightbox-holder.dark {
     padding: 5px;
@@ -11963,13 +11963,13 @@ table {
     box-shadow: 0 0 15px rgba(0, 0, 0, .8)
 }
 
-.ilightbox-holder.dark .ilightbox-container .ilightbox-caption {
+/*.ilightbox-holder.dark .ilightbox-container .ilightbox-caption {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/caption-bg.png);
     color: #fff;
     text-shadow: 0 1px #000
-}
+}*/
 
-.ilightbox-holder.dark .ilightbox-container .ilightbox-social {
+/*.ilightbox-holder.dark .ilightbox-container .ilightbox-social {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/caption-bg.png);
     border-radius: 2px
 }
@@ -11977,18 +11977,18 @@ table {
 .ilightbox-holder.dark .ilightbox-alert {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/alert.png) no-repeat center top;
     color: #555
-}
+}*/
 
 .ilightbox-toolbar.dark {
     top: 11px;
     left: 10px
 }
 
-.ilightbox-toolbar.dark a {
+/*.ilightbox-toolbar.dark a {
     width: 25px;
     height: 23px;
     background: #000 url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/buttons.png) no-repeat 7px 6px
-}
+}*/
 
 .ilightbox-toolbar.dark a.disabled {
     opacity: .2;
@@ -12063,7 +12063,7 @@ table {
     background-color: #111
 }
 
-.isMobile .ilightbox-toolbar.dark a.ilightbox-fullscreen {
+/*.isMobile .ilightbox-toolbar.dark a.ilightbox-fullscreen {
     background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/fullscreen-icon-64.png)
 }
 
@@ -12087,7 +12087,7 @@ table {
 
 .isMobile .ilightbox-toolbar.dark a.ilightbox-pause {
     background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/pause-icon-64.png)
-}
+}*/
 
 .ilightbox-holder.dark .ilightbox-inner-toolbar .ilightbox-title {
     font-size: 18px;
@@ -12125,9 +12125,9 @@ table {
     box-shadow: 0 0 6px rgba(0, 0, 0, .9)
 }
 
-.ilightbox-thumbnails.dark .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
+/*.ilightbox-thumbnails.dark .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/thumb-overlay-play.png) no-repeat center
-}
+}*/
 
 .ilightbox-button.dark.disabled {
     opacity: .1;
@@ -12148,7 +12148,7 @@ table {
     width: 95px;
     height: 75px;
     margin: auto;
-    background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-vertical-icon-64.png) no-repeat 50% 65%;
+    /*background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-vertical-icon-64.png) no-repeat 50% 65%;*/
     background-color: #000;
     border-radius: 0;
     -webkit-border-top-left-radius: 5px;
@@ -12164,7 +12164,7 @@ table {
 .ilightbox-button.ilightbox-prev-button.dark {
     top: 0;
     bottom: auto;
-    background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-vertical-icon-64.png);
+    /*background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-vertical-icon-64.png);*/
     background-position: 50% 35%;
     border-radius: 0;
     -webkit-border-bottom-left-radius: 5px;
@@ -12180,7 +12180,7 @@ table {
     bottom: 0;
     width: 75px;
     height: 95px;
-    background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-icon-64.png);
+    /*background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-icon-64.png);*/
     background-position: 65% 50%;
     border-radius: 0;
     -webkit-border-bottom-left-radius: 5px;
@@ -12192,7 +12192,7 @@ table {
 .ilightbox-button.ilightbox-prev-button.dark.horizontal {
     right: auto;
     left: 0;
-    background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-icon-64.png);
+    /*background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-icon-64.png);*/
     background-position: 35% 50%;
     border-radius: 0;
     -webkit-border-bottom-right-radius: 5px;
@@ -12209,16 +12209,16 @@ table {
     box-shadow: #dacffc 0 0 85px, #dacffc 0 0 85px
 }
 
-.ilightbox-loader.light div {
+/*.ilightbox-loader.light div {
     background: #fff url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/preloader.gif) no-repeat center
-}
+}*/
 
 .ilightbox-holder.light {
     padding: 10px;
     background: #fff;
     box-shadow: 0 0 15px #dacffc
 }
-
+/*
 .ilightbox-holder.light .ilightbox-container .ilightbox-caption {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/caption-bg.png);
     color: #000;
@@ -12233,7 +12233,7 @@ table {
 .ilightbox-holder.light .ilightbox-alert {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/alert.png) no-repeat center top;
     color: #89949b
-}
+}*/
 
 .ilightbox-toolbar.light {
     top: 8px;
@@ -12243,11 +12243,11 @@ table {
     border-radius: 3px
 }
 
-.ilightbox-toolbar.light a {
+/*.ilightbox-toolbar.light a {
     width: 25px;
     height: 23px;
     background: #fff url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/buttons.png) no-repeat 7px 6px
-}
+}*/
 
 .ilightbox-toolbar.light a.disabled {
     opacity: .2;
@@ -12321,7 +12321,7 @@ table {
     background-color: #f6f3ff
 }
 
-.isMobile .ilightbox-toolbar.light a.ilightbox-fullscreen {
+/*.isMobile .ilightbox-toolbar.light a.ilightbox-fullscreen {
     background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/fullscreen-icon-64.png)
 }
 
@@ -12353,7 +12353,7 @@ table {
 
 .ilightbox-thumbnails.light .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/thumb-overlay-play.png) no-repeat center
-}
+}*/
 
 .ilightbox-holder.light .ilightbox-inner-toolbar .ilightbox-title {
     font-size: 18px;
@@ -12409,7 +12409,7 @@ table {
     width: 95px;
     height: 75px;
     margin: auto;
-    background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-vertical-icon-64.png) no-repeat 50% 65%;
+    /*background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-vertical-icon-64.png) no-repeat 50% 65%;*/
     background-color: #fff;
     box-shadow: 0 0 15px #dacffc
 }
@@ -12421,7 +12421,7 @@ table {
 .ilightbox-button.ilightbox-prev-button.light {
     top: 0;
     bottom: auto;
-    background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-vertical-icon-64.png);
+    /*background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-vertical-icon-64.png);*/
     background-position: 50% 35%
 }
 
@@ -12432,7 +12432,7 @@ table {
     bottom: 0;
     width: 75px;
     height: 95px;
-    background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-icon-64.png);
+    /*background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-icon-64.png);*/
     background-position: 65% 50%;
     border-radius: 0;
     -webkit-border-bottom-left-radius: 5px;
@@ -12444,7 +12444,7 @@ table {
 .ilightbox-button.ilightbox-prev-button.light.horizontal {
     right: auto;
     left: 0;
-    background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-icon-64.png);
+    /*background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-icon-64.png);*/
     background-position: 35% 50%;
     border-radius: 0;
     -webkit-border-bottom-right-radius: 5px;
@@ -12461,10 +12461,10 @@ table {
     box-shadow: #000 0 0 85px, #000 0 0 85px
 }
 
-.ilightbox-loader.mac div {
+/*.ilightbox-loader.mac div {
     background: #141414 url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/preloader.gif) no-repeat center
 }
-
+*/
 .ilightbox-holder.mac {
     padding: 2px;
     background: rgba(35, 35, 35, .9);
@@ -12472,7 +12472,7 @@ table {
 }
 
 .ilightbox-holder.mac .ilightbox-container .ilightbox-caption {
-    background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/caption-bg.png);
+    /*background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/caption-bg.png);*/
     color: #fff;
     bottom: 15px;
     left: 15px;
@@ -12487,7 +12487,7 @@ table {
 }
 
 .ilightbox-holder.mac .ilightbox-alert {
-    background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/alert.png) no-repeat center top;
+    /*background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/alert.png) no-repeat center top;*/
     color: #555
 }
 
@@ -12519,7 +12519,7 @@ table {
     background-color: #4b4b4b
 }
 
-.ilightbox-toolbar.mac a.ilightbox-close {
+/*.ilightbox-toolbar.mac a.ilightbox-close {
     background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-25.png)
 }
 
@@ -12536,7 +12536,7 @@ table {
 .ilightbox-toolbar.mac a.ilightbox-pause {
     background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-25.png);
     right: 35px
-}
+}*/
 
 .isMobile .ilightbox-toolbar.mac {
     top: auto;
@@ -12564,7 +12564,7 @@ table {
     background-position: 50%!important
 }
 
-.isMobile .ilightbox-toolbar.mac a.ilightbox-fullscreen {
+/*.isMobile .ilightbox-toolbar.mac a.ilightbox-fullscreen {
     background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-50.png)
 }
 
@@ -12591,7 +12591,7 @@ table {
 .isMobile .ilightbox-toolbar.mac a.ilightbox-pause {
     background-image: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-50.png);
     background-size: 80%
-}
+}*/
 
 .ilightbox-holder.mac .ilightbox-inner-toolbar .ilightbox-title {
     font-size: 18px;
@@ -12615,9 +12615,9 @@ table {
     border-radius: 0
 }
 
-.ilightbox-thumbnails.mac .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
+/*.ilightbox-thumbnails.mac .ilightbox-thumbnails-grid .ilightbox-thumbnail .ilightbox-thumbnail-video {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/thumb-overlay-play.png) no-repeat center
-}
+}*/
 
 .ilightbox-button.mac.disabled {
     opacity: .2;
@@ -12667,13 +12667,13 @@ table {
     border-bottom-right-radius: 5px
 }
 
-.ilightbox-button.ilightbox-next-button.mac span {
+/*.ilightbox-button.ilightbox-next-button.mac span {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-vertical-50.png) no-repeat 50% 75%
 }
 
 .ilightbox-button.ilightbox-prev-button.mac span {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-vertical-50.png) no-repeat 50% 25%
-}
+}*/
 
 .ilightbox-button.ilightbox-next-button.mac.horizontal, .ilightbox-button.ilightbox-prev-button.mac.horizontal {
     right: 0;
@@ -12699,13 +12699,13 @@ table {
     border-top-right-radius: 5px
 }
 
-.ilightbox-button.ilightbox-next-button.mac.horizontal span {
+/*.ilightbox-button.ilightbox-next-button.mac.horizontal span {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-50.png) no-repeat 75% 50%
 }
 
 .ilightbox-button.ilightbox-prev-button.mac.horizontal span {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-50.png) no-repeat 25% 50%
-}
+}*/
 
 .ilightbox-overlay.metro-black {
     background: #000
@@ -12715,9 +12715,9 @@ table {
     box-shadow: #000 0 0 55px, rgba(0, 0, 0, .3) 0 0 55px
 }
 
-.ilightbox-loader.metro-black div {
+/*.ilightbox-loader.metro-black div {
     background: #000 url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/preloader.gif) no-repeat center
-}
+}*/
 
 .ilightbox-holder.metro-black {
     padding: 3px;
@@ -12726,7 +12726,7 @@ table {
 }
 
 .ilightbox-holder.metro-black .ilightbox-container .ilightbox-caption {
-    background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/caption-bg.png) repeat-x bottom;
+    /*background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/caption-bg.png) repeat-x bottom;*/
     background-size: 100% 100%;
     left: 0;
     right: 0;
@@ -12735,15 +12735,15 @@ table {
     padding-top: 15px
 }
 
-.ilightbox-holder.metro-black .ilightbox-container .ilightbox-social {
+/*.ilightbox-holder.metro-black .ilightbox-container .ilightbox-social {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/social-bg.png);
     border-radius: 2px
-}
+}*/
 
-.ilightbox-holder.metro-black .ilightbox-alert {
+/*.ilightbox-holder.metro-black .ilightbox-alert {
     background: url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/alert.png) no-repeat center top;
     color: #555
-}
+}*/
 
 .ilightbox-toolbar.metro-black {
     top: 8px;
@@ -12754,7 +12754,7 @@ table {
 .ilightbox-toolbar.metro-black a {
     width: 27px;
     height: 25px;
-    background: #000 url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/buttons.png) no-repeat 7px 6px
+    /*background: #000 url(//quitotravel.ec/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/buttons.png) no-repeat 7px 6px*/
 }
 
 .ilightbox-toolbar.metro-black a:hover {
@@ -21955,8 +21955,11 @@ body.avada-not-responsive {
 
 @font-face {
     font-family: "icomoon";
-    src: url('//quitotravel.ec/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot');
-    src: url('//quitotravel.ec/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot?#iefix') format('embedded-opentype'), url('//quitotravel.ec/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff') format('woff'), url('//quitotravel.ec/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.ttf') format('truetype'), url('//quitotravel.ec/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.svg#icomoon') format('svg');
+    src: url('wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot');
+    src: url('wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot?#iefix') format('embedded-opentype'),
+     url('wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff') format('woff'),
+     url('wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.ttf') format('truetype'), 
+     url('wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.svg#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24771,23 +24774,23 @@ h1.entry-title {
 }
 
   #redes-sociales   { 
-     height: 35%;
+     height: 22%;
     width: 106%;
     background-color: #22435e;
     margin-left: -3%;
      float: left; 
     padding-left: 350px;
-    margin-top: -9%;
+    margin-top: -6%;
     position: absolute; 
       z-index: 2;"
 }
 
  #redes-sociales a div {
         float: left;
-    width: 51px;
-    height: 51px;
-margin-top: 4%;
-    margin-left: 8%;
+    width: 71px;
+    height: 71px;
+    margin-top: 3%;
+    margin-left: 12%;
      /*background-color: #131; */
 
 }
@@ -24815,8 +24818,8 @@ margin-top: 4%;
   float: left; */
     width: 116px;
     /* height: 120px; */
-    margin-top: 22%;
-    margin-left: -6%;
+    margin-top: 25%;
+    margin-left: -9%;
     /*background-color: aqua;*/
     text-align: center;
     color: #000000;
